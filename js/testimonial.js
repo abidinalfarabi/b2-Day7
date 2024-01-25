@@ -1,6 +1,9 @@
-// OOP
+// OOP adalah singkatan dari Object Oriented Programming, yakni suatu metode pemrograman yang orientasinya terletak pada objek
+//atau sederhanaya objeck didalam object
+//
 
-// class untuk membuat blueprint//templet/cetakan yang akan digunakan pada objet
+// class untuk membuat blueprint//templet/cetakan yang akan digunakan pada
+//contoh oop
 class Testimonial {
   constructor(name, review, image) {
     this.name = name;
